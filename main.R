@@ -1,5 +1,3 @@
-# setwd("D:\\Documents\\OneDrive\\NYU\\2020 Spring\\Applied Survival Analysis (GPH-GU 2368)\\Resources\\datasets")
-
 # Author: Sharder Islam
 # Document: A Survival Analysis of Time to Wean
 # Course: Applied Survival Analysis Spring 2020
